@@ -1,4 +1,4 @@
-# QnA-Bot
+# CoQA Chatbot
 Question and Answer bot powered by BERT + CoQA built in Pytorch. This project was done as course project of CMPT 629 
 
 ## Installation
