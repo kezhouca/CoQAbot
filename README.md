@@ -4,6 +4,9 @@ Question and Answer bot powered by BERT + CoQA built in Pytorch. This project wa
 ## Installation
 ### Requirements
 	cd CoQAbot
+	mkdir data
+	mkdir bert-base-uncased
+	mkdir output
 	pip install requirements.txt
 
 ### Download Data
