@@ -5,7 +5,8 @@ Question and Answer bot powered by BERT + CoQA built in Pytorch. This project wa
 ### Requirements
 	cd CoQAbot
 	mkdir data
-	mkdir bert-base-uncased
+	mkdir bert-base-uncased #bert pre-trained model
+	mkdir model #fine-tuned model
 	mkdir output
 	pip install requirements.txt
 
